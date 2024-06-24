@@ -1,0 +1,88 @@
+<mxfile host="Electron" modified="2024-05-24T02:19:04.511Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="7xrRP2WJ5-w3lXqT_AKx" version="24.0.4" type="device">
+  <diagram name="페이지-1" id="CJVQki8xx5q4jvV6Afor">
+    <mxGraphModel dx="1242" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZOBZEEWCdiy7QRELPEQ-1" target="IZOBZEEWCdiy7QRELPEQ-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-1" value="필요한 데이터 조회" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="60" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-3" value="SEND DATA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="75" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-4" value="SEND DATA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="85" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-5" value="SEND DATA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="95" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZOBZEEWCdiy7QRELPEQ-6" target="IZOBZEEWCdiy7QRELPEQ-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-6" value="SEND DATA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="105" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZOBZEEWCdiy7QRELPEQ-7" target="IZOBZEEWCdiy7QRELPEQ-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-7" value="MBSRequest 변환" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZOBZEEWCdiy7QRELPEQ-10" target="IZOBZEEWCdiy7QRELPEQ-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-10" value="MBS 쿠폰 요청 (GUBUN : I)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="180" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-29" value="성공" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZOBZEEWCdiy7QRELPEQ-13" target="IZOBZEEWCdiy7QRELPEQ-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZOBZEEWCdiy7QRELPEQ-13" target="IZOBZEEWCdiy7QRELPEQ-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-13" value="쿠폰 발급" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="535" y="505" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZOBZEEWCdiy7QRELPEQ-15" target="IZOBZEEWCdiy7QRELPEQ-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-15" value="알림톡 파라미터 변환" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="299" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZOBZEEWCdiy7QRELPEQ-17" target="IZOBZEEWCdiy7QRELPEQ-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-17" value="알림톡 API 호출" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="299" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZOBZEEWCdiy7QRELPEQ-19" target="IZOBZEEWCdiy7QRELPEQ-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-19" value="알림톡 전송" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="289" y="860" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-21" value="T_ORDER_NOTICETALK_SEND&lt;div&gt;성공 업데이트&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="980" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZOBZEEWCdiy7QRELPEQ-23" target="IZOBZEEWCdiy7QRELPEQ-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-23" value="T_ORDER_NOTICETALK_SEND&lt;div&gt;상태 업데이트&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="275" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZOBZEEWCdiy7QRELPEQ-25" target="IZOBZEEWCdiy7QRELPEQ-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-25" value="T_ORDER_MMS_SEND&lt;div&gt;상태 업데이트&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="390" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IZOBZEEWCdiy7QRELPEQ-31" value="END" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
